@@ -1,6 +1,7 @@
 # aerospaceexplorationclub.github.io
 <h1 align="center">Sup... This is an official website of Aerospace Exploration (AXC) Club</h1>
 <h3 align="center">A student-led club from Pulchowk Cmpus</h3>
+https://shubham-per.github.io/aerospaceexplorationclub.github.io/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axc&label=Profile%20views&color=0e75b6&style=flat" alt="axc" /> </p>
 
